@@ -6,6 +6,7 @@ public class ClassA {
 		// TODO Auto-generated method stub
 		//version 2
 		//version 3
+		//version 4
 	}
 
 }
